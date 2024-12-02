@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-24",
+  "version": "1.0.0",
+  "description": "Advent of code - 2024",
+  "main": "index.js",
+  "repository": "https://github.com/notinpublic/advent-of-code-24.git",
+  "author": "notinpublic",
+  "license": "MIT",
+  "private": false,
+  "type": "module"
+}
